@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import {} from 'react'
 import { ThemeProvider } from 'styled-components'
 import { Router } from './Router'
